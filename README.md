@@ -1,0 +1,2 @@
+# Resminboyutunudegistir
+resim boyutlarını değiştirir
